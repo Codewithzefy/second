@@ -1,3 +1,3 @@
 # second
 <br>
-Autgor Huzaifa ali
+Author Huzaifa ali
